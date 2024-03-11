@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    outline:0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.main{
+    background-color: #02918c;
+}
+
+.box{
+    width: 1170px;
+    margin: 0 auto; 
+}
+
+
+
+.menu{
+    text-transform: uppercase; 
+    
+
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 59px;
+    padding: 0 25.5px;
+}
